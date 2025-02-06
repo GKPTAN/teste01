@@ -4,3 +4,8 @@ console.log(b);
 export const soma = (a, b) => {
     return a + b;
 };
+for(let num in a) {
+    if (num > 10) {
+        num = num + 10
+    };
+};
