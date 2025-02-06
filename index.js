@@ -4,7 +4,8 @@ console.log(b);
 export const soma = (a, b) => {
     return a + b;
 };
-
-let filme = "A hora do pesadelo"; 
-
-export const terror = filme;
+for(let num in a) {
+    if (num > 10) {
+        num = num + 10
+    };
+};
