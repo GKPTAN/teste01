@@ -14,3 +14,4 @@ for(let num in a) {
     };
 };
 curso();
+const numwi = 157;
