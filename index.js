@@ -1,3 +1,7 @@
+const curso = (assunto) => {
+    let curso = assunto;
+    console.log(curso);
+}
 let a = [10, 20, 30]
 const [b] = [...a];
 console.log(b);
@@ -9,3 +13,4 @@ for(let num in a) {
         num = num + 10
     };
 };
+curso();
